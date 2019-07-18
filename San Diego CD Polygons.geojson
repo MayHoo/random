@@ -8,7 +8,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.2,
         "Statename": "California",
         "District": 49
       },
@@ -22385,7 +22385,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#00ff80",
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.2,
         "Statename": "California",
         "District": 50
       },
@@ -60320,7 +60320,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff80ff",
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.2,
         "Statename": "California",
         "District": 51
       },
@@ -86659,7 +86659,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ffff00",
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.2,
         "Statename": "California",
         "District": 52
       },
@@ -107864,7 +107864,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#0080ff",
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.2,
         "Statename": "California",
         "District": 53
       },
