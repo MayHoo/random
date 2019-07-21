@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04083B"
+        "cell": "LBQ04083B",
+        "group_num": "1"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04036A"
+        "cell": "LBQ04036A",
+        "group_num": "1"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04701C"
+        "cell": "LBQ04701C",
+        "group_num": "1"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04900B"
+        "cell": "LBQ04900B",
+        "group_num": "1"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04965B"
+        "cell": "LBQ04965B",
+        "group_num": "1"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06187A"
+        "cell": "LBQ06187A",
+        "group_num": "1"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +95,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04168A"
+        "cell": "LBQ04168A",
+        "group_num": "2, 3"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +110,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04085A"
+        "cell": "LBQ04085A",
+        "group_num": "2"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +125,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04726A"
+        "cell": "LBQ04726A",
+        "group_num": "2, 3"
       },
       "geometry": {
         "type": "Point",
@@ -131,21 +140,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04168A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.72985200000001,
-          40.76116237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ06192B"
+        "cell": "LBQ06192B",
+        "group_num": "3"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +155,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQM6004A"
+        "cell": "LBQM6004A",
+        "group_num": "3"
       },
       "geometry": {
         "type": "Point",
@@ -172,22 +169,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04726A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.745245,
-          40.76568017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04377B"
+        "cell": "LBQ04377B",
+        "group_num": "4"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +185,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ06029B"
+        "cell": "LBQ06029B",
+        "group_num": "4"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQM6052A"
+        "cell": "LBQM6052A",
+        "group_num": "4, 7, 8"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +215,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBKM4022A"
+        "cell": "LBKM4022A",
+        "group_num": "4, 8"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +230,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQM6085A"
+        "cell": "LBQM6085A",
+        "group_num": "5, 6, 9, 14"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +245,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04002A"
+        "cell": "LBQ04002A",
+        "group_num": "5"
       },
       "geometry": {
         "type": "Point",
@@ -270,22 +259,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQM6085A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7547,
-          40.7136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04086A"
+        "cell": "LBQ04086A",
+        "group_num": "6"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04106A"
+        "cell": "LBQ04106A",
+        "group_num": "7"
       },
       "geometry": {
         "type": "Point",
@@ -313,21 +290,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQM6052A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.80861,
-          40.6875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ06243A"
+        "cell": "LBQ06243A",
+        "group_num": "7"
       },
       "geometry": {
         "type": "Point",
@@ -341,35 +305,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04153B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.824815,
-          40.67909147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQM6052A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.80861,
-          40.6875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04153B"
+        "cell": "LBQ04153B",
+        "group_num": "7, 8"
       },
       "geometry": {
         "type": "Point",
@@ -383,21 +320,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBKM4022A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.81283,
-          40.67532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04154A"
+        "cell": "LBQ04154A",
+        "group_num": "8"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +335,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04631A"
+        "cell": "LBQ04631A",
+        "group_num": "9, 12"
       },
       "geometry": {
         "type": "Point",
@@ -425,7 +350,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ06042C"
+        "cell": "LBQ06042C",
+        "group_num": "9"
       },
       "geometry": {
         "type": "Point",
@@ -439,21 +365,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQM6085A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7547,
-          40.7136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ06237B"
+        "cell": "LBQ06237B",
+        "group_num": "9, 13"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +380,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04206B"
+        "cell": "LBQ04206B",
+        "group_num": "9"
       },
       "geometry": {
         "type": "Point",
@@ -481,7 +395,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04417E"
+        "cell": "LBQ04417E",
+        "group_num": "10"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +410,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04610D"
+        "cell": "LBQ04610D",
+        "group_num": "10"
       },
       "geometry": {
         "type": "Point",
@@ -509,7 +425,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04788B"
+        "cell": "LBQ04788B",
+        "group_num": "10, 14"
       },
       "geometry": {
         "type": "Point",
@@ -523,7 +440,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04826C"
+        "cell": "LBQ04826C",
+        "group_num": "10"
       },
       "geometry": {
         "type": "Point",
@@ -537,7 +455,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04961A"
+        "cell": "LBQ04961A",
+        "group_num": "10"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +470,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06103B"
+        "cell": "LBQ06103B",
+        "group_num": "10"
       },
       "geometry": {
         "type": "Point",
@@ -565,7 +485,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQM6048A"
+        "cell": "LBQM6048A",
+        "group_num": "11, 13"
       },
       "geometry": {
         "type": "Point",
@@ -579,7 +500,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04629B"
+        "cell": "LBQ04629B",
+        "group_num": "11"
       },
       "geometry": {
         "type": "Point",
@@ -592,22 +514,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ04631A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.770288,
-          40.69734166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04708I"
+        "cell": "LBQ04708I",
+        "group_num": "12"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +530,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04780C"
+        "cell": "LBQ04780C",
+        "group_num": "12"
       },
       "geometry": {
         "type": "Point",
@@ -635,7 +545,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04783C"
+        "cell": "LBQ04783C",
+        "group_num": "12"
       },
       "geometry": {
         "type": "Point",
@@ -649,7 +560,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04937A"
+        "cell": "LBQ04937A",
+        "group_num": "12"
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +575,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04952B"
+        "cell": "LBQ04952B",
+        "group_num": "12"
       },
       "geometry": {
         "type": "Point",
@@ -676,36 +589,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ06237B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7653,
-          40.7014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQM6048A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.74667,
-          40.69611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04703A"
+        "cell": "LBQ04703A",
+        "group_num": "13"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +605,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQM6009A"
+        "cell": "LBQM6009A",
+        "group_num": "14"
       },
       "geometry": {
         "type": "Point",
@@ -733,35 +620,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQM6085A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7547,
-          40.7136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04788B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.756825,
-          40.72479513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ06057A"
+        "cell": "LBQ06057A",
+        "group_num": "15, 16, 18"
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +635,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNYB0701A"
+        "cell": "LNYB0701A",
+        "group_num": "15, 16, 18"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +650,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04038B"
+        "cell": "LBQ04038B",
+        "group_num": "15"
       },
       "geometry": {
         "type": "Point",
@@ -803,21 +665,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ06057A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.766094,
-          40.760639399999995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ06220B"
+        "cell": "LBQ06220B",
+        "group_num": "16, 18"
       },
       "geometry": {
         "type": "Point",
@@ -830,22 +679,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LNYB0701A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.78276600000001,
-          40.757282000000004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04039A"
+        "cell": "LBQ04039A",
+        "group_num": "16"
       },
       "geometry": {
         "type": "Point",
@@ -859,7 +695,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04553B"
+        "cell": "LBQ04553B",
+        "group_num": "17, 19, 20"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +710,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04854A"
+        "cell": "LBQ04854A",
+        "group_num": "17, 19, 23"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +725,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ06905A"
+        "cell": "LBQ06905A",
+        "group_num": "17, 19"
       },
       "geometry": {
         "type": "Point",
@@ -901,7 +740,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04103A"
+        "cell": "LBQ04103A",
+        "group_num": "17"
       },
       "geometry": {
         "type": "Point",
@@ -914,50 +754,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ06057A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.766094,
-          40.760639399999995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ06220B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.78876899999999,
-          40.765981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LNYB0701A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.78276600000001,
-          40.757282000000004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04208A"
+        "cell": "LBQ04208A",
+        "group_num": "18"
       },
       "geometry": {
         "type": "Point",
@@ -971,21 +770,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04553B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.87050500000001,
-          40.72802571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ04554I"
+        "cell": "LBQ04554I",
+        "group_num": "19"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +785,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04699A"
+        "cell": "LBQ04699A",
+        "group_num": "19"
       },
       "geometry": {
         "type": "Point",
@@ -1013,7 +800,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04847B"
+        "cell": "LBQ04847B",
+        "group_num": "19"
       },
       "geometry": {
         "type": "Point",
@@ -1026,36 +814,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ04854A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.866272,
-          40.72179078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ06905A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.878,
-          40.73636111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04546F"
+        "cell": "LBQ04546F",
+        "group_num": "19"
       },
       "geometry": {
         "type": "Point",
@@ -1068,22 +829,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ04553B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.87050500000001,
-          40.72802571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04978B"
+        "cell": "LBQ04978B",
+        "group_num": "20, 23"
       },
       "geometry": {
         "type": "Point",
@@ -1097,7 +845,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06131A"
+        "cell": "LBQ06131A",
+        "group_num": "20, 22, 23"
       },
       "geometry": {
         "type": "Point",
@@ -1111,7 +860,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06172A"
+        "cell": "LBQ06172A",
+        "group_num": "20, 22, 23"
       },
       "geometry": {
         "type": "Point",
@@ -1125,7 +875,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04571C"
+        "cell": "LBQ04571C",
+        "group_num": "21"
       },
       "geometry": {
         "type": "Point",
@@ -1139,7 +890,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06051B"
+        "cell": "LBQ06051B",
+        "group_num": "21"
       },
       "geometry": {
         "type": "Point",
@@ -1153,7 +905,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06099A"
+        "cell": "LBQ06099A",
+        "group_num": "21"
       },
       "geometry": {
         "type": "Point",
@@ -1167,7 +920,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06126B"
+        "cell": "LBQ06126B",
+        "group_num": "21"
       },
       "geometry": {
         "type": "Point",
@@ -1181,7 +935,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06130A"
+        "cell": "LBQ06130A",
+        "group_num": "21"
       },
       "geometry": {
         "type": "Point",
@@ -1195,7 +950,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06149C"
+        "cell": "LBQ06149C",
+        "group_num": "21"
       },
       "geometry": {
         "type": "Point",
@@ -1209,7 +965,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06151A"
+        "cell": "LBQ06151A",
+        "group_num": "21"
       },
       "geometry": {
         "type": "Point",
@@ -1223,7 +980,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04767C"
+        "cell": "LBQ04767C",
+        "group_num": "22"
       },
       "geometry": {
         "type": "Point",
@@ -1237,49 +995,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06131A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.873354,
-          40.73642671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ06172A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.885356,
-          40.72193162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ04854A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.866272,
-          40.72179078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04906A"
+        "cell": "LBQ04906A",
+        "group_num": "23"
       },
       "geometry": {
         "type": "Point",
@@ -1293,7 +1010,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04928D"
+        "cell": "LBQ04928D",
+        "group_num": "23"
       },
       "geometry": {
         "type": "Point",
@@ -1307,21 +1025,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04978B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.858413,
-          40.71498778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04988E"
+        "cell": "LBQ04988E",
+        "group_num": "23"
       },
       "geometry": {
         "type": "Point",
@@ -1335,7 +1040,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06049A"
+        "cell": "LBQ06049A",
+        "group_num": "23"
       },
       "geometry": {
         "type": "Point",
@@ -1349,21 +1055,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06131A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.873354,
-          40.73642671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ06132A"
+        "cell": "LBQ06132A",
+        "group_num": "23"
       },
       "geometry": {
         "type": "Point",
@@ -1377,21 +1070,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06172A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.885356,
-          40.72193162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQM6084A"
+        "cell": "LBQM6084A",
+        "group_num": "23"
       },
       "geometry": {
         "type": "Point",
@@ -1405,7 +1085,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBK04021B"
+        "cell": "LBK04021B",
+        "group_num": "24"
       },
       "geometry": {
         "type": "Point",
@@ -1419,7 +1100,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04050B"
+        "cell": "LBQ04050B",
+        "group_num": "24"
       },
       "geometry": {
         "type": "Point",
@@ -1433,7 +1115,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04866G"
+        "cell": "LBQ04866G",
+        "group_num": "24"
       },
       "geometry": {
         "type": "Point",
@@ -1447,7 +1130,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04489A"
+        "cell": "LBQ04489A",
+        "group_num": "25"
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1145,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04905A"
+        "cell": "LBQ04905A",
+        "group_num": "25"
       },
       "geometry": {
         "type": "Point",
@@ -1475,7 +1160,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQM6064A"
+        "cell": "LBQM6064A",
+        "group_num": "25, 26"
       },
       "geometry": {
         "type": "Point",
@@ -1489,7 +1175,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04193B"
+        "cell": "LBQ04193B",
+        "group_num": "25"
       },
       "geometry": {
         "type": "Point",
@@ -1502,22 +1189,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQM6064A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.90408000000001,
-          40.699690000000004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04455D"
+        "cell": "LBQ04455D",
+        "group_num": "26"
       },
       "geometry": {
         "type": "Point",
@@ -1531,7 +1205,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04709A"
+        "cell": "LBQ04709A",
+        "group_num": "27"
       },
       "geometry": {
         "type": "Point",
@@ -1545,7 +1220,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ06135B"
+        "cell": "LBQ06135B",
+        "group_num": "27"
       },
       "geometry": {
         "type": "Point",
@@ -1559,7 +1235,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY01831E"
+        "cell": "LNY01831E",
+        "group_num": "28"
       },
       "geometry": {
         "type": "Point",
@@ -1573,7 +1250,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY01918D"
+        "cell": "LNY01918D",
+        "group_num": "28"
       },
       "geometry": {
         "type": "Point",
@@ -1587,7 +1265,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LNY01806B"
+        "cell": "LNY01806B",
+        "group_num": "28"
       },
       "geometry": {
         "type": "Point",
@@ -1601,7 +1280,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBKM4057A"
+        "cell": "LBKM4057A",
+        "group_num": "29, 31"
       },
       "geometry": {
         "type": "Point",
@@ -1615,7 +1295,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04284D"
+        "cell": "LBQ04284D",
+        "group_num": "29"
       },
       "geometry": {
         "type": "Point",
@@ -1629,7 +1310,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04326B"
+        "cell": "LBQ04326B",
+        "group_num": "29"
       },
       "geometry": {
         "type": "Point",
@@ -1643,7 +1325,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04860A"
+        "cell": "LBQ04860A",
+        "group_num": "29"
       },
       "geometry": {
         "type": "Point",
@@ -1657,7 +1340,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBK04002B"
+        "cell": "LBK04002B",
+        "group_num": "29, 34"
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1355,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBKM4050A"
+        "cell": "LBKM4050A",
+        "group_num": "30"
       },
       "geometry": {
         "type": "Point",
@@ -1685,7 +1370,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04368B"
+        "cell": "LBQ04368B",
+        "group_num": "30"
       },
       "geometry": {
         "type": "Point",
@@ -1699,7 +1385,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04413A"
+        "cell": "LBQ04413A",
+        "group_num": "30"
       },
       "geometry": {
         "type": "Point",
@@ -1713,7 +1400,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04442B"
+        "cell": "LBQ04442B",
+        "group_num": "30"
       },
       "geometry": {
         "type": "Point",
@@ -1727,7 +1415,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04466A"
+        "cell": "LBQ04466A",
+        "group_num": "30, 31"
       },
       "geometry": {
         "type": "Point",
@@ -1741,7 +1430,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04662A"
+        "cell": "LBQ04662A",
+        "group_num": "30"
       },
       "geometry": {
         "type": "Point",
@@ -1754,22 +1444,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBKM4057A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.89801,
-          40.64953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04166A"
+        "cell": "LBQ04166A",
+        "group_num": "31"
       },
       "geometry": {
         "type": "Point",
@@ -1783,7 +1460,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04287B"
+        "cell": "LBQ04287B",
+        "group_num": "31"
       },
       "geometry": {
         "type": "Point",
@@ -1797,7 +1475,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04462A"
+        "cell": "LBQ04462A",
+        "group_num": "31, 34"
       },
       "geometry": {
         "type": "Point",
@@ -1811,21 +1490,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04466A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.890279,
-          40.66361322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04673A"
+        "cell": "LBQ04673A",
+        "group_num": "31, 34"
       },
       "geometry": {
         "type": "Point",
@@ -1839,7 +1505,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04835C"
+        "cell": "LBQ04835C",
+        "group_num": "31, 34"
       },
       "geometry": {
         "type": "Point",
@@ -1853,7 +1520,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04837A"
+        "cell": "LBQ04837A",
+        "group_num": "31"
       },
       "geometry": {
         "type": "Point",
@@ -1867,7 +1535,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBKM4074A"
+        "cell": "LBKM4074A",
+        "group_num": "32"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1550,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04070A"
+        "cell": "LBQ04070A",
+        "group_num": "32"
       },
       "geometry": {
         "type": "Point",
@@ -1895,7 +1565,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04035B"
+        "cell": "LBQ04035B",
+        "group_num": "33"
       },
       "geometry": {
         "type": "Point",
@@ -1909,7 +1580,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04645A"
+        "cell": "LBQ04645A",
+        "group_num": "33"
       },
       "geometry": {
         "type": "Point",
@@ -1922,22 +1594,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBQ04326B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.898219,
-          40.63687086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBQ04331A"
+        "cell": "LBQ04331A",
+        "group_num": "34"
       },
       "geometry": {
         "type": "Point",
@@ -1950,50 +1609,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04462A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.90222800000001,
-          40.63400829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04673A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.907973,
-          40.634746299999996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBQ04835C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.907377,
-          40.64620131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBKM4102A"
+        "cell": "LBKM4102A",
+        "group_num": "35"
       },
       "geometry": {
         "type": "Point",
@@ -2007,7 +1625,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04687C"
+        "cell": "LBQ04687C",
+        "group_num": "35"
       },
       "geometry": {
         "type": "Point",
@@ -2021,7 +1640,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBQ04861A"
+        "cell": "LBQ04861A",
+        "group_num": "35"
       },
       "geometry": {
         "type": "Point",
@@ -2035,7 +1655,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBK04096A"
+        "cell": "LBK04096A",
+        "group_num": "35"
       },
       "geometry": {
         "type": "Point",
@@ -2049,7 +1670,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03014C"
+        "cell": "LBX03014C",
+        "group_num": "36"
       },
       "geometry": {
         "type": "Point",
@@ -2063,7 +1685,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03052C"
+        "cell": "LBX03052C",
+        "group_num": "36"
       },
       "geometry": {
         "type": "Point",
@@ -2077,7 +1700,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03059E"
+        "cell": "LBX03059E",
+        "group_num": "36"
       },
       "geometry": {
         "type": "Point",
@@ -2091,7 +1715,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03108A"
+        "cell": "LBX03108A",
+        "group_num": "36"
       },
       "geometry": {
         "type": "Point",
@@ -2105,7 +1730,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03131E"
+        "cell": "LBX03131E",
+        "group_num": "36"
       },
       "geometry": {
         "type": "Point",
@@ -2119,7 +1745,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03717E"
+        "cell": "LBX03717E",
+        "group_num": "36"
       },
       "geometry": {
         "type": "Point",
@@ -2133,7 +1760,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03754B"
+        "cell": "LBX03754B",
+        "group_num": "36"
       },
       "geometry": {
         "type": "Point",
@@ -2147,7 +1775,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03053C"
+        "cell": "LBX03053C",
+        "group_num": "37"
       },
       "geometry": {
         "type": "Point",
@@ -2161,7 +1790,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03779A"
+        "cell": "LBX03779A",
+        "group_num": "37"
       },
       "geometry": {
         "type": "Point",
@@ -2175,7 +1805,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03019B"
+        "cell": "LBX03019B",
+        "group_num": "37"
       },
       "geometry": {
         "type": "Point",
@@ -2189,7 +1820,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03036B"
+        "cell": "LBX03036B",
+        "group_num": "38"
       },
       "geometry": {
         "type": "Point",
@@ -2203,7 +1835,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03736A"
+        "cell": "LBX03736A",
+        "group_num": "38"
       },
       "geometry": {
         "type": "Point",
@@ -2217,7 +1850,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02022A"
+        "cell": "LNY02022A",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2231,7 +1865,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02056C"
+        "cell": "LNY02056C",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2245,7 +1880,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02057C"
+        "cell": "LNY02057C",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2259,7 +1895,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02059D"
+        "cell": "LNY02059D",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2273,7 +1910,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02070B"
+        "cell": "LNY02070B",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2287,7 +1925,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02079E"
+        "cell": "LNY02079E",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +1940,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02098A"
+        "cell": "LNY02098A",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2315,7 +1955,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02318E"
+        "cell": "LNY02318E",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2329,7 +1970,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02531B"
+        "cell": "LNY02531B",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2343,7 +1985,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02762E"
+        "cell": "LNY02762E",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2357,7 +2000,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02763E"
+        "cell": "LNY02763E",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2371,7 +2015,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02764B"
+        "cell": "LNY02764B",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2385,7 +2030,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNY02876A"
+        "cell": "LNY02876A",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2399,7 +2045,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNYM2008A"
+        "cell": "LNYM2008A",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2413,7 +2060,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNYM2030A"
+        "cell": "LNYM2030A",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2427,7 +2075,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNYM2031A"
+        "cell": "LNYM2031A",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2441,7 +2090,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LNYM2049A"
+        "cell": "LNYM2049A",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2455,7 +2105,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX02422C"
+        "cell": "LBX02422C",
+        "group_num": "39"
       },
       "geometry": {
         "type": "Point",
@@ -2469,7 +2120,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03034D"
+        "cell": "LBX03034D",
+        "group_num": "40"
       },
       "geometry": {
         "type": "Point",
@@ -2483,7 +2135,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03094A"
+        "cell": "LBX03094A",
+        "group_num": "40"
       },
       "geometry": {
         "type": "Point",
@@ -2497,7 +2150,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03097A"
+        "cell": "LBX03097A",
+        "group_num": "40, 45"
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2165,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03096A"
+        "cell": "LBX03096A",
+        "group_num": "41, 45"
       },
       "geometry": {
         "type": "Point",
@@ -2525,7 +2180,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03072B"
+        "cell": "LBX03072B",
+        "group_num": "41"
       },
       "geometry": {
         "type": "Point",
@@ -2539,7 +2195,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03074B"
+        "cell": "LBX03074B",
+        "group_num": "42"
       },
       "geometry": {
         "type": "Point",
@@ -2553,7 +2210,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03212B"
+        "cell": "LBX03212B",
+        "group_num": "42, 43"
       },
       "geometry": {
         "type": "Point",
@@ -2567,7 +2225,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03765B"
+        "cell": "LBX03765B",
+        "group_num": "42"
       },
       "geometry": {
         "type": "Point",
@@ -2581,7 +2240,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03766A"
+        "cell": "LBX03766A",
+        "group_num": "42"
       },
       "geometry": {
         "type": "Point",
@@ -2595,7 +2255,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03078C"
+        "cell": "LBX03078C",
+        "group_num": "43"
       },
       "geometry": {
         "type": "Point",
@@ -2609,21 +2270,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03212B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8881,
-          40.8842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBX03734C"
+        "cell": "LBX03734C",
+        "group_num": "43"
       },
       "geometry": {
         "type": "Point",
@@ -2637,7 +2285,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03746D"
+        "cell": "LBX03746D",
+        "group_num": "43"
       },
       "geometry": {
         "type": "Point",
@@ -2651,7 +2300,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03144C"
+        "cell": "LBX03144C",
+        "group_num": "44"
       },
       "geometry": {
         "type": "Point",
@@ -2665,7 +2315,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03213B"
+        "cell": "LBX03213B",
+        "group_num": "44"
       },
       "geometry": {
         "type": "Point",
@@ -2679,7 +2330,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03312B"
+        "cell": "LBX03312B",
+        "group_num": "44"
       },
       "geometry": {
         "type": "Point",
@@ -2693,7 +2345,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03508A"
+        "cell": "LBX03508A",
+        "group_num": "44"
       },
       "geometry": {
         "type": "Point",
@@ -2707,7 +2360,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03755A"
+        "cell": "LBX03755A",
+        "group_num": "44"
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2375,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-        "cell": "LBX03079A"
+        "cell": "LBX03079A",
+        "group_num": "44"
       },
       "geometry": {
         "type": "Point",
@@ -2735,21 +2390,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03096A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.895643,
-          40.86301064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "cell": "LBX03104B"
+        "cell": "LBX03104B",
+        "group_num": "45"
       },
       "geometry": {
         "type": "Point",
@@ -2763,27 +2405,14 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0000FF",
-        "cell": "LBX03146C"
+        "cell": "LBX03146C",
+        "group_num": "45"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.89718,
           40.881840000000004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0000",
-        "cell": "LBX03097A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.901726,
-          40.87475236
         ]
       }
     }
