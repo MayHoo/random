@@ -1,0 +1,3905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4CW1120C",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00345",
+        "VoLTEDropCall": "10681.0",
+        "VOLTECALLS": "545566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6184,
+          42.0322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4SHM002A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.0033299999999999996",
+        "VoLTEDropCall": "10283.12",
+        "VOLTECALLS": "9301899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5935,
+          42.1139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4CW1173A",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.0031100000000000004",
+        "VoLTEDropCall": "9627.03",
+        "VOLTECALLS": "7034152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.544,
+          42.1398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4SH0217E",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00307",
+        "VoLTEDropCall": "9506.05",
+        "VOLTECALLS": "4279884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5865,
+          42.0817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4WL0775A",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.00247",
+        "VoLTEDropCall": "4958.07",
+        "VOLTECALLS": "6517693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8111,
+          42.2516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4WLM001A",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.0022",
+        "VoLTEDropCall": "4413.16",
+        "VOLTECALLS": "5133808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7961,
+          42.2716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE4127D",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.0018800000000000002",
+        "VoLTEDropCall": "3773.09",
+        "VOLTECALLS": "2091603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7682,
+          42.2723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0695A",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00288",
+        "VoLTEDropCall": "10187.87",
+        "VOLTECALLS": "11211502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1558,
+          42.6913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0450B",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00231",
+        "VoLTEDropCall": "8192.92",
+        "VOLTECALLS": "12087117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1604,
+          42.7169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0616G",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.00232",
+        "VoLTEDropCall": "5520.29",
+        "VOLTECALLS": "3350621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.117,
+          42.3323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE7303A",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.00165",
+        "VoLTEDropCall": "6048.91",
+        "VOLTECALLS": "5456319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1044,
+          42.3655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE8054A",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.00159",
+        "VoLTEDropCall": "5843.91",
+        "VOLTECALLS": "4300543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9831,
+          42.3797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0652A",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.0015300000000000001",
+        "VoLTEDropCall": "5621.17",
+        "VOLTECALLS": "10412680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9962,
+          42.4088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0267D",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00182",
+        "VoLTEDropCall": "5930.72",
+        "VOLTECALLS": "11061052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9533,
+          42.4628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BN1308D",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00157",
+        "VoLTEDropCall": "5118.55",
+        "VOLTECALLS": "1701059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1844,
+          42.5502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BN1037A",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00145",
+        "VoLTEDropCall": "4742.3",
+        "VOLTECALLS": "4731914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.961,
+          42.4546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BO0088A",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.00217",
+        "VoLTEDropCall": "17100.53",
+        "VOLTECALLS": "2900595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0787,
+          42.3482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DET103C",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.0016",
+        "VoLTEDropCall": "7431.86",
+        "VOLTECALLS": "1501005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.077,
+          42.25100000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4PR0479B",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.0021",
+        "VoLTEDropCall": "3846.75",
+        "VOLTECALLS": "3536658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1549,
+          41.682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4ER1011D",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.0021",
+        "VoLTEDropCall": "3834.29",
+        "VOLTECALLS": "2157666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7154,
+          41.9622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0701A",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.00207",
+        "VoLTEDropCall": "3786.44",
+        "VOLTECALLS": "1389173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8821,
+          42.1547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0731A",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.00206",
+        "VoLTEDropCall": "3777.65",
+        "VOLTECALLS": "1073253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8743,
+          42.1136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4PB0287B",
+        "marker-symbol": "3",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.0070599999999999994",
+        "VoLTEDropCall": "2868.12",
+        "VOLTECALLS": "955608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3318,
+          43.6834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DN2207C",
+        "marker-symbol": "8",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.00513",
+        "VoLTEDropCall": "2082.67",
+        "VOLTECALLS": "822456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2939,
+          43.6209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4LA0108A",
+        "marker-symbol": "7",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.00413",
+        "VoLTEDropCall": "640.48",
+        "VOLTECALLS": "586934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1826,
+          44.1143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BG0415A",
+        "marker-symbol": "8",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.00381",
+        "VoLTEDropCall": "591.33",
+        "VOLTECALLS": "92246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2492,
+          44.8264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DN5556B",
+        "marker-symbol": "5",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.0033399999999999997",
+        "VoLTEDropCall": "2602.95",
+        "VOLTECALLS": "5210041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4386,
+          42.9842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DN5532A",
+        "marker-symbol": "9",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.00317",
+        "VoLTEDropCall": "2469.15",
+        "VOLTECALLS": "3513926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4408,
+          42.9576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DN4404B",
+        "marker-symbol": "7",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.00992",
+        "VoLTEDropCall": "5201.98",
+        "VOLTECALLS": "6124668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4711,
+          42.7597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4FR2025A",
+        "marker-symbol": "8",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.0014199999999999998",
+        "VoLTEDropCall": "5331.82",
+        "VOLTECALLS": "9124348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39699999999998,
+          41.8727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4FR2041B",
+        "marker-symbol": "9",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.0012699999999999999",
+        "VoLTEDropCall": "4773.68",
+        "VOLTECALLS": "11621961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3902,
+          41.8863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4PR0609A",
+        "marker-symbol": "3",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.00283",
+        "VoLTEDropCall": "7914.41",
+        "VOLTECALLS": "1194370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8197,
+          41.3897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BV0348A",
+        "marker-symbol": "4",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.01896",
+        "VoLTEDropCall": "1173.77",
+        "VOLTECALLS": "154068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8145,
+          44.5256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4KN0306A",
+        "marker-symbol": "5",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.01813",
+        "VoLTEDropCall": "1122.39",
+        "VOLTECALLS": "65798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5998,
+          42.8285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4LN0711D",
+        "marker-symbol": "9",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.01651",
+        "VoLTEDropCall": "1022.19",
+        "VOLTECALLS": "108530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3577,
+          43.654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1163A",
+        "marker-symbol": "0",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00579",
+        "VoLTEDropCall": "18573.16",
+        "VOLTECALLS": "9956894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.485,
+          42.1481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4SHM039A",
+        "marker-symbol": "1",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.0046",
+        "VoLTEDropCall": "14770.74",
+        "VOLTECALLS": "16442027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5858,
+          42.102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1141B",
+        "marker-symbol": "2",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.004520000000000001",
+        "VoLTEDropCall": "14515.97",
+        "VOLTECALLS": "3145613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7037,
+          42.0852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4SH0251B",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00359",
+        "VoLTEDropCall": "11519.06",
+        "VOLTECALLS": "8624568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5687,
+          42.1245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1105A",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00352",
+        "VoLTEDropCall": "11296.87",
+        "VOLTECALLS": "7045104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6084,
+          42.1627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4SHM006A",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00345",
+        "VoLTEDropCall": "11058.03",
+        "VOLTECALLS": "7601318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6086,
+          42.1136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4CW1152A",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00313",
+        "VoLTEDropCall": "10054.99",
+        "VOLTECALLS": "2808346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6529,
+          42.1623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4CW1133A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00297",
+        "VoLTEDropCall": "9537.07",
+        "VOLTECALLS": "7702478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5889,
+          42.1217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4CW1139B",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00296",
+        "VoLTEDropCall": "9509.96",
+        "VOLTECALLS": "3647754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4978,
+          42.1142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1132A",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_1",
+        "DroprateContribution": "0.00288",
+        "VoLTEDropCall": "9253.16",
+        "VOLTECALLS": "7755515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.613,
+          42.1111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1148E",
+        "marker-symbol": "0",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.0033299999999999996",
+        "VoLTEDropCall": "6884.01",
+        "VOLTECALLS": "2516453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5214,
+          42.3939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE0707A",
+        "marker-symbol": "1",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.0032600000000000003",
+        "VoLTEDropCall": "6752.05",
+        "VOLTECALLS": "2217811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8582,
+          42.075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE4122B",
+        "marker-symbol": "2",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.0031",
+        "VoLTEDropCall": "6415.87",
+        "VOLTECALLS": "5542286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.794,
+          42.2609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WL0969B",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.00301",
+        "VoLTEDropCall": "6221.94",
+        "VOLTECALLS": "1086363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.797,
+          42.4905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WL0737C",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.00297",
+        "VoLTEDropCall": "6140.13",
+        "VOLTECALLS": "4517688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7556,
+          42.2473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4WLM089A",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.00288",
+        "VoLTEDropCall": "5959.99",
+        "VOLTECALLS": "1084250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.627,
+          42.3259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DET399D",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.00252",
+        "VoLTEDropCall": "5211.01",
+        "VOLTECALLS": "1413743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.722,
+          42.3244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE4121A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.0025",
+        "VoLTEDropCall": "5183.04",
+        "VOLTECALLS": "4056436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7739,
+          42.2215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4WL0719A",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.00231",
+        "VoLTEDropCall": "4776.6",
+        "VOLTECALLS": "7049694"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8322,
+          42.2458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4WL0780A",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_2",
+        "DroprateContribution": "0.00228",
+        "VoLTEDropCall": "4728.17",
+        "VOLTECALLS": "799083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8581,
+          42.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0692A2",
+        "marker-symbol": "0",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00443",
+        "VoLTEDropCall": "16051.9",
+        "VOLTECALLS": "5623166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0761,
+          42.7669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE6028B",
+        "marker-symbol": "1",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00337",
+        "VoLTEDropCall": "12184.13",
+        "VOLTECALLS": "5464736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1002,
+          42.7741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0428A",
+        "marker-symbol": "2",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00329",
+        "VoLTEDropCall": "11929.07",
+        "VOLTECALLS": "9103866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1615,
+          42.7083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0687C",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00325",
+        "VoLTEDropCall": "11768.35",
+        "VOLTECALLS": "10807881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3139,
+          42.6394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BZ0021A",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.0027",
+        "VoLTEDropCall": "9780.08",
+        "VOLTECALLS": "5440844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1681,
+          42.7278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE5145A",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.0024100000000000002",
+        "VoLTEDropCall": "8734.08",
+        "VOLTECALLS": "12163915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3106,
+          42.6496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0619A",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00236",
+        "VoLTEDropCall": "8549.96",
+        "VOLTECALLS": "2065640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4382,
+          42.6907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BS0699A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00231",
+        "VoLTEDropCall": "8369.99",
+        "VOLTECALLS": "2611471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1126,
+          42.7569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BS0665B",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00215",
+        "VoLTEDropCall": "7796.21",
+        "VOLTECALLS": "7399734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0775,
+          42.7794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE5137A",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_3",
+        "DroprateContribution": "0.00213",
+        "VoLTEDropCall": "7726.08",
+        "VOLTECALLS": "6703281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3243,
+          42.6146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0477B",
+        "marker-symbol": "0",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.0049299999999999995",
+        "VoLTEDropCall": "12076.98",
+        "VOLTECALLS": "4186330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1426,
+          41.7137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR7413A",
+        "marker-symbol": "1",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.004070000000000001",
+        "VoLTEDropCall": "9958.0",
+        "VOLTECALLS": "8405852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1049,
+          41.9073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DET133E",
+        "marker-symbol": "2",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.0039",
+        "VoLTEDropCall": "9551.03",
+        "VOLTECALLS": "1544107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3932,
+          42.0565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BO0114A",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.0035700000000000003",
+        "VoLTEDropCall": "8744.96",
+        "VOLTECALLS": "2172421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1756,
+          42.3188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR2302B",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.0035",
+        "VoLTEDropCall": "8570.88",
+        "VOLTECALLS": "4026589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1204,
+          41.7431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0491A",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.00336",
+        "VoLTEDropCall": "8228.08",
+        "VOLTECALLS": "10187605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1454,
+          41.7008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE3113D",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.0032",
+        "VoLTEDropCall": "7825.97",
+        "VOLTECALLS": "4250074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2177,
+          42.3036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR1416A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.00303",
+        "VoLTEDropCall": "7419.02",
+        "VOLTECALLS": "3743847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105,
+          41.9252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DET511A",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.00294",
+        "VoLTEDropCall": "7207.07",
+        "VOLTECALLS": "683126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2531,
+          42.2032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BN0425B",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_4",
+        "DroprateContribution": "0.00283",
+        "VoLTEDropCall": "6922.99",
+        "VOLTECALLS": "1446671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4371,
+          42.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7309A",
+        "marker-symbol": "0",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.00485",
+        "VoLTEDropCall": "18392.03",
+        "VOLTECALLS": "4114222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24,
+          42.3987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7038A",
+        "marker-symbol": "1",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.00447",
+        "VoLTEDropCall": "16967.46",
+        "VOLTECALLS": "3100235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2672,
+          42.3786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7167E",
+        "marker-symbol": "2",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.00247",
+        "VoLTEDropCall": "9377.58",
+        "VOLTECALLS": "1835322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2225,
+          42.4141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7304C",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.00237",
+        "VoLTEDropCall": "9009.86",
+        "VOLTECALLS": "9172785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2393,
+          42.3759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0328A",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.0021899999999999997",
+        "VoLTEDropCall": "8295.03",
+        "VOLTECALLS": "5742600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.079,
+          42.405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE4011A",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.00216",
+        "VoLTEDropCall": "8207.37",
+        "VOLTECALLS": "1511108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4521,
+          42.3465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7174A",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.0020800000000000003",
+        "VoLTEDropCall": "7910.12",
+        "VOLTECALLS": "5423223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1454,
+          42.3893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BSM165A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.00202",
+        "VoLTEDropCall": "7680.03",
+        "VOLTECALLS": "3964457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0809,
+          42.4015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BN0088B",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.0018899999999999998",
+        "VoLTEDropCall": "7159.01",
+        "VOLTECALLS": "1821876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9713,
+          42.3729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BS0650A",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_5",
+        "DroprateContribution": "0.00183",
+        "VoLTEDropCall": "6936.49",
+        "VOLTECALLS": "1129624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3511,
+          42.3485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN0047F",
+        "marker-symbol": "0",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00409",
+        "VoLTEDropCall": "13818.25",
+        "VOLTECALLS": "11141540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9739,
+          42.4586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0345D",
+        "marker-symbol": "1",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00335",
+        "VoLTEDropCall": "11318.65",
+        "VOLTECALLS": "1658962"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0997,
+          42.6621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE9074C",
+        "marker-symbol": "2",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00288",
+        "VoLTEDropCall": "9716.23",
+        "VOLTECALLS": "2379412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8559,
+          42.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DE9066A",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00262",
+        "VoLTEDropCall": "8847.09",
+        "VOLTECALLS": "2560846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9862,
+          42.5315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN0070A",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.0025800000000000003",
+        "VoLTEDropCall": "8729.11",
+        "VOLTECALLS": "4306607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9175,
+          42.5027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DE9196B",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00233",
+        "VoLTEDropCall": "7880.01",
+        "VOLTECALLS": "709492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6389,
+          42.6652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE5015A",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.0021899999999999997",
+        "VoLTEDropCall": "7394.96",
+        "VOLTECALLS": "2570948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2464,
+          42.5119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE9065A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.0021100000000000003",
+        "VoLTEDropCall": "7111.13",
+        "VOLTECALLS": "17830595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9438,
+          42.4672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE9203A",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00193",
+        "VoLTEDropCall": "6530.02",
+        "VOLTECALLS": "3639666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9067,
+          42.515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DE9063A",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_6",
+        "DroprateContribution": "0.00193",
+        "VoLTEDropCall": "6506.02",
+        "VOLTECALLS": "2325748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6525,
+          42.6258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0602C",
+        "marker-symbol": "0",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.00468",
+        "VoLTEDropCall": "30684.04",
+        "VOLTECALLS": "5317848"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105,
+          42.3399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1212D",
+        "marker-symbol": "1",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.0035600000000000002",
+        "VoLTEDropCall": "23356.72",
+        "VOLTECALLS": "5524414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0201,
+          42.3669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1213A",
+        "marker-symbol": "2",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.0030800000000000003",
+        "VoLTEDropCall": "20188.33",
+        "VOLTECALLS": "8564832"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0338,
+          42.3718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0617B",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.0029100000000000003",
+        "VoLTEDropCall": "19059.84",
+        "VOLTECALLS": "4700594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0272,
+          42.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1078A",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.0027600000000000003",
+        "VoLTEDropCall": "18073.64",
+        "VOLTECALLS": "3406534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0744,
+          42.3487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BO1116C",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.00274",
+        "VoLTEDropCall": "17977.12",
+        "VOLTECALLS": "3042702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0817,
+          42.345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "LNEB0201A",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.00246",
+        "VoLTEDropCall": "16110.44",
+        "VOLTECALLS": "3463565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0372,
+          42.3741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1086A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.00245",
+        "VoLTEDropCall": "16075.99",
+        "VOLTECALLS": "4269660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0654,
+          42.3521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DE7035F",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.0023",
+        "VoLTEDropCall": "15077.95",
+        "VOLTECALLS": "3842284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0751,
+          42.3686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0219D",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_7",
+        "DroprateContribution": "0.0023",
+        "VoLTEDropCall": "15066.57",
+        "VOLTECALLS": "2969478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0637,
+          42.3753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN1156D",
+        "marker-symbol": "0",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.004229999999999999",
+        "VoLTEDropCall": "20274.33",
+        "VOLTECALLS": "3870999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0675,
+          42.3654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1222C",
+        "marker-symbol": "1",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.00414",
+        "VoLTEDropCall": "19833.42",
+        "VOLTECALLS": "5006633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03699999999998,
+          42.3456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE2095G",
+        "marker-symbol": "2",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.00395",
+        "VoLTEDropCall": "18955.98",
+        "VOLTECALLS": "3874153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0594,
+          42.1386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1076A",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.00355",
+        "VoLTEDropCall": "17043.43",
+        "VOLTECALLS": "3313807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0666,
+          42.362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1225D",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.0035399999999999997",
+        "VoLTEDropCall": "16992.98",
+        "VOLTECALLS": "4797657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0598,
+          42.3564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN0012B",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.0034200000000000003",
+        "VoLTEDropCall": "16392.11",
+        "VOLTECALLS": "4754932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0472,
+          42.3503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BSM711A",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.00325",
+        "VoLTEDropCall": "15576.98",
+        "VOLTECALLS": "8314773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0254,
+          42.1124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN1135A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.00293",
+        "VoLTEDropCall": "14046.85",
+        "VOLTECALLS": "2768397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0613,
+          42.3559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DE3117H",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.00225",
+        "VoLTEDropCall": "10809.97",
+        "VOLTECALLS": "2555306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2174,
+          42.1395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN1160C",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_8",
+        "DroprateContribution": "0.00212",
+        "VoLTEDropCall": "10151.08",
+        "VOLTECALLS": "4065958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0558,
+          42.3533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR7425A",
+        "marker-symbol": "0",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.00563",
+        "VoLTEDropCall": "12205.19",
+        "VOLTECALLS": "7235727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93,
+          41.6322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3213A",
+        "marker-symbol": "1",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.0053100000000000005",
+        "VoLTEDropCall": "11527.85",
+        "VOLTECALLS": "13314831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9356,
+          41.6528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0176A",
+        "marker-symbol": "2",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.0051",
+        "VoLTEDropCall": "11064.41",
+        "VOLTECALLS": "9196717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9437,
+          41.6132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PRM105A",
+        "marker-symbol": "3",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.0046700000000000005",
+        "VoLTEDropCall": "10141.02",
+        "VOLTECALLS": "6977439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1769,
+          41.6791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0239A",
+        "marker-symbol": "4",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.0036899999999999997",
+        "VoLTEDropCall": "8011.06",
+        "VOLTECALLS": "5303930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9398,
+          41.6748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0735C",
+        "marker-symbol": "5",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.0036200000000000004",
+        "VoLTEDropCall": "7852.54",
+        "VOLTECALLS": "1729959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7042,
+          42.1111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4HY0542A",
+        "marker-symbol": "6",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.00336",
+        "VoLTEDropCall": "7284.98",
+        "VOLTECALLS": "2351398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2476,
+          41.6625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DR5515A",
+        "marker-symbol": "7",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.0032600000000000003",
+        "VoLTEDropCall": "7074.04",
+        "VOLTECALLS": "1425400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2806,
+          41.6883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DR1065A",
+        "marker-symbol": "8",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.00321",
+        "VoLTEDropCall": "6967.05",
+        "VOLTECALLS": "1680986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2347,
+          41.6356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4FR3208A",
+        "marker-symbol": "9",
+        "CD": "Massachusetts_9",
+        "DroprateContribution": "0.00296",
+        "VoLTEDropCall": "6420.99",
+        "VOLTECALLS": "1522817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1039,
+          41.6719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2202A",
+        "marker-symbol": "0",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.01059",
+        "VoLTEDropCall": "4858.01",
+        "VOLTECALLS": "1959681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2897,
+          43.6786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2222A",
+        "marker-symbol": "1",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.01018",
+        "VoLTEDropCall": "4668.97",
+        "VOLTECALLS": "2477122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.453,
+          43.4962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2291A",
+        "marker-symbol": "2",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.00859",
+        "VoLTEDropCall": "3940.93",
+        "VOLTECALLS": "1167567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3621,
+          43.6968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2267B",
+        "marker-symbol": "3",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.00806",
+        "VoLTEDropCall": "3697.98",
+        "VOLTECALLS": "1591772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3107,
+          43.7061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DN2283A",
+        "marker-symbol": "4",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.007359999999999999",
+        "VoLTEDropCall": "3373.04",
+        "VOLTECALLS": "1475004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2506,
+          43.6703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2282A",
+        "marker-symbol": "5",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.00678",
+        "VoLTEDropCall": "3109.14",
+        "VOLTECALLS": "965193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3103,
+          43.6508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2265A",
+        "marker-symbol": "6",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.0065",
+        "VoLTEDropCall": "2978.98",
+        "VOLTECALLS": "1480396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3408,
+          43.6398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2280A",
+        "marker-symbol": "7",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.0064",
+        "VoLTEDropCall": "2933.23",
+        "VOLTECALLS": "748357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3721,
+          43.5896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DN2285D",
+        "marker-symbol": "8",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.00509",
+        "VoLTEDropCall": "2333.0",
+        "VOLTECALLS": "2675317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2733,
+          43.6536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2263A",
+        "marker-symbol": "9",
+        "CD": "Maine_1",
+        "DroprateContribution": "0.00503",
+        "VoLTEDropCall": "2307.99",
+        "VOLTECALLS": "418050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5238,
+          43.4835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0102A",
+        "marker-symbol": "0",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.01605",
+        "VoLTEDropCall": "2647.96",
+        "VOLTECALLS": "2535224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1928,
+          44.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0103A",
+        "marker-symbol": "1",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.01576",
+        "VoLTEDropCall": "2601.01",
+        "VOLTECALLS": "1248645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2467,
+          44.094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BG0402B",
+        "marker-symbol": "2",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.009640000000000001",
+        "VoLTEDropCall": "1591.01",
+        "VOLTECALLS": "972898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7825,
+          44.8072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA1105A",
+        "marker-symbol": "3",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.00757",
+        "VoLTEDropCall": "1249.05",
+        "VOLTECALLS": "3890606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2161,
+          44.0964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0101A",
+        "marker-symbol": "4",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.00688",
+        "VoLTEDropCall": "1136.0",
+        "VOLTECALLS": "216150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2456,
+          44.0275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4WA0515A",
+        "marker-symbol": "5",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.00492",
+        "VoLTEDropCall": "812.29",
+        "VOLTECALLS": "88311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7564,
+          44.4311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0114B",
+        "marker-symbol": "6",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.00487",
+        "VoLTEDropCall": "803.0",
+        "VOLTECALLS": "347674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1411,
+          44.0839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0109A",
+        "marker-symbol": "7",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.00486",
+        "VoLTEDropCall": "802.03",
+        "VOLTECALLS": "810091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.214,
+          44.1321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WA1521C",
+        "marker-symbol": "8",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.00462",
+        "VoLTEDropCall": "763.0",
+        "VOLTECALLS": "352747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7395,
+          44.5544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4WA0524A",
+        "marker-symbol": "9",
+        "CD": "Maine_2",
+        "DroprateContribution": "0.004520000000000001",
+        "VoLTEDropCall": "745.0",
+        "VOLTECALLS": "191343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6247,
+          44.617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4EN2273D",
+        "marker-symbol": "0",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.015340000000000001",
+        "VoLTEDropCall": "13977.6",
+        "VOLTECALLS": "2504106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.882,
+          42.892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5536A",
+        "marker-symbol": "1",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.01009",
+        "VoLTEDropCall": "9191.95",
+        "VOLTECALLS": "4720957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46600000000002,
+          43.0038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4MN0563A",
+        "marker-symbol": "2",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.00565",
+        "VoLTEDropCall": "5144.52",
+        "VOLTECALLS": "1148135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4516,
+          43.0683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4411C",
+        "marker-symbol": "3",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.00495",
+        "VoLTEDropCall": "4506.56",
+        "VOLTECALLS": "1972346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5021,
+          42.8269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BS1019E",
+        "marker-symbol": "4",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.00485",
+        "VoLTEDropCall": "4423.0",
+        "VOLTECALLS": "1177784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8099,
+          42.9124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4EN2269B",
+        "marker-symbol": "5",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.00458",
+        "VoLTEDropCall": "4169.99",
+        "VOLTECALLS": "1575312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7911,
+          43.0994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4EN2289A",
+        "marker-symbol": "6",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.00451",
+        "VoLTEDropCall": "4110.05",
+        "VOLTECALLS": "1556678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8707,
+          43.2097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5533C",
+        "marker-symbol": "7",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.0040100000000000005",
+        "VoLTEDropCall": "3653.94",
+        "VOLTECALLS": "5445124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4637,
+          42.9875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4EN2275A",
+        "marker-symbol": "8",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.0039299999999999995",
+        "VoLTEDropCall": "3578.01",
+        "VOLTECALLS": "781722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8242,
+          43.0255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5549B",
+        "marker-symbol": "9",
+        "CD": "New Hampshire_1",
+        "DroprateContribution": "0.00389",
+        "VoLTEDropCall": "3541.01",
+        "VOLTECALLS": "1075811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4944,
+          43.0314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4417F",
+        "marker-symbol": "0",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.027819999999999998",
+        "VoLTEDropCall": "15244.99",
+        "VOLTECALLS": "2898547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2243,
+          42.757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0002A",
+        "marker-symbol": "1",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.01721",
+        "VoLTEDropCall": "9431.99",
+        "VOLTECALLS": "2172357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2052,
+          42.7714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4416A",
+        "marker-symbol": "2",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.01653",
+        "VoLTEDropCall": "9060.05",
+        "VOLTECALLS": "1998705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2295,
+          42.7852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4401B",
+        "marker-symbol": "3",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.01426",
+        "VoLTEDropCall": "7814.96",
+        "VOLTECALLS": "2515107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4473,
+          42.7089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4402B",
+        "marker-symbol": "4",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.013590000000000001",
+        "VoLTEDropCall": "7448.03",
+        "VOLTECALLS": "3468411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4538,
+          42.7413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4429A",
+        "marker-symbol": "5",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.01188",
+        "VoLTEDropCall": "6513.06",
+        "VOLTECALLS": "2376263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2543,
+          42.7823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4415A",
+        "marker-symbol": "6",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.01122",
+        "VoLTEDropCall": "6149.01",
+        "VOLTECALLS": "1457976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2698,
+          42.8167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5560A",
+        "marker-symbol": "7",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.00995",
+        "VoLTEDropCall": "5453.01",
+        "VOLTECALLS": "885178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4399,
+          43.2191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5554B",
+        "marker-symbol": "8",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.00972",
+        "VoLTEDropCall": "5328.0",
+        "VOLTECALLS": "416011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5744,
+          43.2156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4LN0788C",
+        "marker-symbol": "9",
+        "CD": "New Hampshire_2",
+        "DroprateContribution": "0.00759",
+        "VoLTEDropCall": "4159.0",
+        "VOLTECALLS": "522931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.295,
+          43.655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR6326A",
+        "marker-symbol": "0",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.00277",
+        "VoLTEDropCall": "10618.74",
+        "VOLTECALLS": "2386623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1906,
+          41.6568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3008E",
+        "marker-symbol": "1",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.00259",
+        "VoLTEDropCall": "9935.97",
+        "VOLTECALLS": "6224905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4172,
+          41.8331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0255A",
+        "marker-symbol": "2",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.00227",
+        "VoLTEDropCall": "8716.71",
+        "VOLTECALLS": "7101708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4099,
+          41.839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR2038A",
+        "marker-symbol": "3",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.00209",
+        "VoLTEDropCall": "8009.76",
+        "VOLTECALLS": "3786959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44,
+          41.8889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3018C",
+        "marker-symbol": "4",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.00197",
+        "VoLTEDropCall": "7551.07",
+        "VOLTECALLS": "10832341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4363,
+          41.8046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3004E",
+        "marker-symbol": "5",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.00193",
+        "VoLTEDropCall": "7412.9",
+        "VOLTECALLS": "3486280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4117,
+          41.816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0189A",
+        "marker-symbol": "6",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.00182",
+        "VoLTEDropCall": "6974.03",
+        "VOLTECALLS": "6593301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4112,
+          41.8542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4PR0376A",
+        "marker-symbol": "7",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.0018",
+        "VoLTEDropCall": "6915.08",
+        "VOLTECALLS": "1548567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3733,
+          41.49100000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4FR6325E",
+        "marker-symbol": "8",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.00173",
+        "VoLTEDropCall": "6635.93",
+        "VOLTECALLS": "3694628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3627,
+          41.7736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0088B",
+        "marker-symbol": "9",
+        "CD": "Rhode Island_1",
+        "DroprateContribution": "0.00162",
+        "VoLTEDropCall": "6208.03",
+        "VOLTECALLS": "3565696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4115,
+          41.8089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR4031D",
+        "marker-symbol": "0",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.00468",
+        "VoLTEDropCall": "13569.4",
+        "VOLTECALLS": "15552824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4547,
+          41.8223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0220E",
+        "marker-symbol": "1",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.00447",
+        "VoLTEDropCall": "12969.12",
+        "VOLTECALLS": "5531593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4353,
+          41.8346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR4016C",
+        "marker-symbol": "2",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.00441",
+        "VoLTEDropCall": "12811.16",
+        "VOLTECALLS": "7445287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.514,
+          41.7075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR4027A",
+        "marker-symbol": "3",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.00374",
+        "VoLTEDropCall": "10840.95",
+        "VOLTECALLS": "10015162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4492,
+          41.8009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3099A",
+        "marker-symbol": "4",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.00313",
+        "VoLTEDropCall": "9082.03",
+        "VOLTECALLS": "4226418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4154,
+          41.8234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0371A",
+        "marker-symbol": "5",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.0028",
+        "VoLTEDropCall": "8131.91",
+        "VOLTECALLS": "2653192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4285,
+          41.5979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0228B",
+        "marker-symbol": "6",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.00279",
+        "VoLTEDropCall": "8091.81",
+        "VOLTECALLS": "4452195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4717,
+          41.8081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3015G",
+        "marker-symbol": "7",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.0025399999999999997",
+        "VoLTEDropCall": "7373.38",
+        "VOLTECALLS": "13029829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4362,
+          41.8443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3007D",
+        "marker-symbol": "8",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.00248",
+        "VoLTEDropCall": "7194.01",
+        "VOLTECALLS": "6997101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4348,
+          41.8252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4FR4209B",
+        "marker-symbol": "9",
+        "CD": "Rhode Island_2",
+        "DroprateContribution": "0.0024100000000000002",
+        "VoLTEDropCall": "6993.97",
+        "VOLTECALLS": "4000825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4091,
+          41.7358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4KN0304B",
+        "marker-symbol": "0",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.07329",
+        "VoLTEDropCall": "4859.01",
+        "VOLTECALLS": "308068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5482,
+          42.8043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4KN0310B",
+        "marker-symbol": "1",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.06662",
+        "VoLTEDropCall": "4416.8",
+        "VOLTECALLS": "131573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6022,
+          42.9745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0346A",
+        "marker-symbol": "2",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.0259",
+        "VoLTEDropCall": "1717.5",
+        "VOLTECALLS": "83730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.093,
+          44.5388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BV0331C",
+        "marker-symbol": "3",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.0255",
+        "VoLTEDropCall": "1690.99",
+        "VOLTECALLS": "296676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1843,
+          44.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LN0731A",
+        "marker-symbol": "4",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.02425",
+        "VoLTEDropCall": "1608.0",
+        "VOLTECALLS": "195794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4518,
+          43.4375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BV0327B",
+        "marker-symbol": "5",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.02216",
+        "VoLTEDropCall": "1469.02",
+        "VOLTECALLS": "855881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2159,
+          44.4783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0330A",
+        "marker-symbol": "6",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.021480000000000003",
+        "VoLTEDropCall": "1424.0",
+        "VOLTECALLS": "108609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2348,
+          44.5413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0318A",
+        "marker-symbol": "7",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.02129",
+        "VoLTEDropCall": "1411.26",
+        "VOLTECALLS": "58242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9309,
+          44.3644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0364A",
+        "marker-symbol": "8",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.01905",
+        "VoLTEDropCall": "1263.19",
+        "VOLTECALLS": "54085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0678,
+          44.6575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BV0315A",
+        "marker-symbol": "9",
+        "CD": "Vermont_0",
+        "DroprateContribution": "0.01891",
+        "VoLTEDropCall": "1254.0",
+        "VOLTECALLS": "84002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7379,
+          44.3048
+        ]
+      }
+    }
+  ]
+}
