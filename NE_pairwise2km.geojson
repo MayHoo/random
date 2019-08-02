@@ -7,6 +7,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4PR0479B",
+        "CD": "Massachusetts_9",
         "marker-symbol": "22",
         "group": "22"
       },
@@ -24,6 +25,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4PR0478A",
+        "CD": "Massachusetts_9",
         "marker-symbol": "x",
         "group": "6, 22"
       },
@@ -41,6 +43,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4PRM163A",
+        "CD": "Massachusetts_4",
         "marker-symbol": "6",
         "group": "6"
       },
@@ -58,6 +61,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4PR0212E",
+        "CD": "Rhode Island_2",
         "marker-symbol": "23",
         "group": "23"
       },
@@ -75,6 +79,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4FR4018F",
+        "CD": "Rhode Island_2",
         "marker-symbol": "23",
         "group": "23"
       },
@@ -92,6 +97,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4FR4027A",
+        "CD": "Rhode Island_2",
         "marker-symbol": "24",
         "group": "24"
       },
@@ -109,6 +115,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4FR3018C",
+        "CD": "Rhode Island_1",
         "marker-symbol": "24",
         "group": "24"
       },
@@ -126,6 +133,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4FR4031D",
+        "CD": "Rhode Island_2",
         "marker-symbol": "25",
         "group": "25"
       },
@@ -143,6 +151,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4FR4059A",
+        "CD": "Rhode Island_2",
         "marker-symbol": "26",
         "group": "26"
       },
@@ -160,6 +169,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNEB0810A2",
+        "CD": "Rhode Island_2",
         "marker-symbol": "x",
         "group": "25, 26"
       },
@@ -177,6 +187,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4PR0245B",
+        "CD": "Rhode Island_1",
         "marker-symbol": "26",
         "group": "26"
       },
@@ -194,6 +205,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4PR0435B",
+        "CD": "Massachusetts_4",
         "marker-symbol": "5",
         "group": "5"
       },
@@ -211,6 +223,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4PR0475B",
+        "CD": "Massachusetts_4",
         "marker-symbol": "5",
         "group": "5"
       },
@@ -228,6 +241,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4CW1136A",
+        "CD": "Massachusetts_1",
         "marker-symbol": "2",
         "group": "2"
       },
@@ -245,6 +259,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4CW1131A",
+        "CD": "Massachusetts_1",
         "marker-symbol": "1",
         "group": "1"
       },
@@ -262,6 +277,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4SH0224B2",
+        "CD": "Massachusetts_1",
         "marker-symbol": "2",
         "group": "2"
       },
@@ -279,6 +295,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4SHM002A",
+        "CD": "Massachusetts_1",
         "marker-symbol": "1",
         "group": "1"
       },
@@ -296,6 +313,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BSM003A",
+        "CD": "Massachusetts_8",
         "marker-symbol": "20",
         "group": "20"
       },
@@ -313,6 +331,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BN0462A",
+        "CD": "Massachusetts_8",
         "marker-symbol": "20",
         "group": "20"
       },
@@ -330,6 +349,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0373A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "x",
         "group": "19,21"
       },
@@ -347,6 +367,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0093A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "x",
         "group": "12,14"
       },
@@ -364,6 +385,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4DET226A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "19",
         "group": "19"
       },
@@ -381,6 +403,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BS0607A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "14",
         "group": "14"
       },
@@ -398,6 +421,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BS0389B",
+        "CD": "Massachusetts_8",
         "marker-symbol": "21",
         "group": "21"
       },
@@ -415,6 +439,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE0275B",
+        "CD": "Massachusetts_7",
         "marker-symbol": "x",
         "group": "12, 14"
       },
@@ -432,6 +457,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BN0244A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "12",
         "group": "12"
       },
@@ -449,6 +475,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0091A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "11",
         "group": "11"
       },
@@ -466,6 +493,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0098C",
+        "CD": "Massachusetts_7",
         "marker-symbol": "x",
         "group": "11, 12, 14"
       },
@@ -483,6 +511,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DET104B",
+        "CD": "Massachusetts_7",
         "marker-symbol": "x",
         "group": "11, 12"
       },
@@ -500,6 +529,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0626A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "x",
         "group": "11, 12"
       },
@@ -515,10 +545,11 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
-        "marker-color": "#0000FF",
+        "marker-color": "#0000ff",
         "cell": "L4BS0626A",
-        "marker-symbol": "17",
-        "group": "17"
+        "CD": "Massachusetts_7",
+        "marker-symbol": "x",
+        "group": "11, 17"
       },
       "geometry": {
         "type": "Point",
@@ -534,6 +565,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BN0026A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "11",
         "group": "11"
       },
@@ -551,6 +583,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BN0129A",
+        "CD": "Massachusetts_5",
         "marker-symbol": "8",
         "group": "8"
       },
@@ -568,6 +601,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE2100H",
+        "CD": "Massachusetts_7",
         "marker-symbol": "11",
         "group": "11"
       },
@@ -585,6 +619,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0075A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "11",
         "group": "11"
       },
@@ -602,6 +637,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNEB0101A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "11",
         "group": "11"
       },
@@ -619,6 +655,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE4132A",
+        "CD": "Massachusetts_5",
         "marker-symbol": "8",
         "group": "8"
       },
@@ -636,6 +673,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4DE2094A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "17",
         "group": "17"
       },
@@ -653,6 +691,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0414B",
+        "CD": "Massachusetts_7",
         "marker-symbol": "11",
         "group": "11"
       },
@@ -670,6 +709,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNEB0102A2",
+        "CD": "Massachusetts_7",
         "marker-symbol": "x",
         "group": "11, 17"
       },
@@ -687,6 +727,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0228B",
+        "CD": "Massachusetts_7",
         "marker-symbol": "17",
         "group": "17"
       },
@@ -704,6 +745,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0633A",
+        "CD": "Massachusetts_8",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -721,6 +763,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0605D",
+        "CD": "Massachusetts_7",
         "marker-symbol": "x",
         "group": "11, 17"
       },
@@ -738,6 +781,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0016A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "x",
         "group": "11, 15"
       },
@@ -755,6 +799,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0014A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "17",
         "group": "17"
       },
@@ -772,6 +817,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE2098B",
+        "CD": "Massachusetts_8",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -789,6 +835,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE0272A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -806,6 +853,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0013C",
+        "CD": "Massachusetts_7",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -823,6 +871,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE1217A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "17",
         "group": "17"
       },
@@ -840,6 +889,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BSM509A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -857,6 +907,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4TMP014A",
+        "CD": "Massachusetts_8",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -874,6 +925,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BSM510A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -891,6 +943,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN1027B",
+        "CD": "Massachusetts_7",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -908,6 +961,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0023D",
+        "CD": "Massachusetts_7",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -925,6 +979,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0011A",
+        "CD": "Massachusetts_8",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -942,6 +997,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0165A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -959,6 +1015,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0231A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "15",
         "group": "15"
       },
@@ -976,6 +1033,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0107A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "9",
         "group": "9"
       },
@@ -993,6 +1051,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0252A",
+        "CD": "Massachusetts_8",
         "marker-symbol": "18",
         "group": "18"
       },
@@ -1010,6 +1069,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE1087C",
+        "CD": "Massachusetts_7",
         "marker-symbol": "9",
         "group": "9"
       },
@@ -1027,6 +1087,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE1084E",
+        "CD": "Massachusetts_8",
         "marker-symbol": "18",
         "group": "18"
       },
@@ -1044,6 +1105,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0159B",
+        "CD": "Massachusetts_8",
         "marker-symbol": "18",
         "group": "18"
       },
@@ -1061,6 +1123,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BSM508A",
+        "CD": "Massachusetts_5",
         "marker-symbol": "9",
         "group": "9"
       },
@@ -1078,6 +1141,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0638A",
+        "CD": "Massachusetts_8",
         "marker-symbol": "18",
         "group": "18"
       },
@@ -1095,6 +1159,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BO0075B",
+        "CD": "Massachusetts_8",
         "marker-symbol": "18",
         "group": "18"
       },
@@ -1112,6 +1177,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0853A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "16",
         "group": "16"
       },
@@ -1129,6 +1195,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4DE1212D",
+        "CD": "Massachusetts_7",
         "marker-symbol": "16",
         "group": "16"
       },
@@ -1146,6 +1213,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNEB0503A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "18",
         "group": "18"
       },
@@ -1163,6 +1231,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0158C",
+        "CD": "Massachusetts_8",
         "marker-symbol": "18",
         "group": "18"
       },
@@ -1180,6 +1249,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4DE7035F",
+        "CD": "Massachusetts_7",
         "marker-symbol": "18",
         "group": "18"
       },
@@ -1197,6 +1267,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN0163C",
+        "CD": "Massachusetts_7",
         "marker-symbol": "16",
         "group": "16"
       },
@@ -1214,6 +1285,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE1213A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "16",
         "group": "16"
       },
@@ -1231,6 +1303,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BN0088B",
+        "CD": "Massachusetts_5",
         "marker-symbol": "7",
         "group": "7"
       },
@@ -1248,6 +1321,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4CW1164A",
+        "CD": "Massachusetts_2",
         "marker-symbol": "3",
         "group": "3"
       },
@@ -1265,6 +1339,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DE8054A",
+        "CD": "Massachusetts_5",
         "marker-symbol": "7",
         "group": "7"
       },
@@ -1282,6 +1357,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0617B",
+        "CD": "Massachusetts_7",
         "marker-symbol": "16",
         "group": "16"
       },
@@ -1299,6 +1375,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4DEB042E",
+        "CD": "Massachusetts_7",
         "marker-symbol": "18",
         "group": "18"
       },
@@ -1316,6 +1393,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4CW1148E",
+        "CD": "Massachusetts_2",
         "marker-symbol": "3",
         "group": "3"
       },
@@ -1333,6 +1411,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNEB0501A",
+        "CD": "Massachusetts_7",
         "marker-symbol": "13",
         "group": "13"
       },
@@ -1350,6 +1429,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BS0314C",
+        "CD": "Massachusetts_7",
         "marker-symbol": "13",
         "group": "13"
       },
@@ -1367,6 +1447,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BN1037A",
+        "CD": "Massachusetts_6",
         "marker-symbol": "10",
         "group": "10"
       },
@@ -1384,6 +1465,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BN0047F",
+        "CD": "Massachusetts_6",
         "marker-symbol": "10",
         "group": "10"
       },
@@ -1401,6 +1483,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS1654A",
+        "CD": "Massachusetts_6",
         "marker-symbol": "10",
         "group": "10"
       },
@@ -1418,6 +1501,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0422A",
+        "CD": "Massachusetts_3",
         "marker-symbol": "4",
         "group": "4"
       },
@@ -1435,6 +1519,7 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "L4BS0440A",
+        "CD": "Massachusetts_3",
         "marker-symbol": "4",
         "group": "4"
       },
@@ -1452,6 +1537,7 @@
         "marker-size": "small",
         "marker-color": "#FF0000",
         "cell": "L4BZ0021A",
+        "CD": "Massachusetts_3",
         "marker-symbol": "4",
         "group": "4"
       },
