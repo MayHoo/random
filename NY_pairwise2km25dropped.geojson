@@ -1416,10 +1416,10 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
-        "marker-color": "#FF0000",
+        "marker-color": "#ff0000",
         "cell": "LBQ04821B",
-        "marker-symbol": "x",
-        "group": "1,2,7,9,10"
+        "marker-symbol": 65,
+        "group": 65
       },
       "geometry": {
         "type": "Point",
