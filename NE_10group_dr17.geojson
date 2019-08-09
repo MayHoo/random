@@ -1,0 +1,473 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BN0013C",
+        "marker-symbol": "15",
+        "group": "15",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0672,
+          42.3284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BN0023D",
+        "marker-symbol": "15",
+        "group": "15",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0785,
+          42.3406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BN0047F",
+        "marker-symbol": "10",
+        "group": "10",
+        "CD": "Massachusetts_6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9739,
+          42.4586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BN0088B",
+        "marker-symbol": "7",
+        "group": "7",
+        "CD": "Massachusetts_5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9713,
+          42.3729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BN0158C",
+        "marker-symbol": "18",
+        "group": "18",
+        "CD": "Massachusetts_8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0548,
+          42.3674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BN0159B",
+        "marker-symbol": "18",
+        "group": "18",
+        "CD": "Massachusetts_8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0656,
+          42.3596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BN1037A",
+        "marker-symbol": "10",
+        "group": "10",
+        "CD": "Massachusetts_6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.961,
+          42.4546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0231A",
+        "marker-symbol": "15",
+        "group": "15",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0631,
+          42.3442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0617B",
+        "marker-symbol": "16",
+        "group": "16",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0272,
+          42.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BSM509A",
+        "marker-symbol": "15",
+        "group": "15",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0763,
+          42.3322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BSM510A",
+        "marker-symbol": "15",
+        "group": "15",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0638,
+          42.3353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4CW1131A",
+        "marker-symbol": "1",
+        "group": "1",
+        "CD": "Massachusetts_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5869,
+          42.1006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE0272A",
+        "marker-symbol": "15",
+        "group": "15",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0829,
+          42.3273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DE1212D",
+        "marker-symbol": "16",
+        "group": "16",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0201,
+          42.3669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE1213A",
+        "marker-symbol": "16",
+        "group": "16",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0338,
+          42.3718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE1217A",
+        "marker-symbol": "17",
+        "group": "17",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1081,
+          42.3294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DE2094A",
+        "marker-symbol": "17",
+        "group": "17",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1011,
+          42.3135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE2098B",
+        "marker-symbol": "15",
+        "group": "15",
+        "CD": "Massachusetts_8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0587,
+          42.327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DE7035F",
+        "marker-symbol": "18",
+        "group": "18",
+        "CD": "Massachusetts_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0751,
+          42.3686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE8054A",
+        "marker-symbol": "7",
+        "group": "7",
+        "CD": "Massachusetts_5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9831,
+          42.3797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4FR3018C",
+        "marker-symbol": "24",
+        "group": "24",
+        "CD": "Rhode Island_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4363,
+          41.8046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4FR4027A",
+        "marker-symbol": "24",
+        "group": "24",
+        "CD": "Rhode Island_2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4492,
+          41.8009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4PR0478A",
+        "marker-symbol": "x",
+        "group": "6, 22",
+        "CD": "Massachusetts_9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1639,
+          41.6919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4PR0479B",
+        "marker-symbol": "22",
+        "group": "22",
+        "CD": "Massachusetts_9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1549,
+          41.681999999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4PRM163A",
+        "marker-symbol": "6",
+        "group": "6",
+        "CD": "Massachusetts_4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1603,
+          41.702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4SHM002A",
+        "marker-symbol": "1",
+        "group": "1",
+        "CD": "Massachusetts_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5935,
+          42.1139
+        ]
+      }
+    }
+  ]
+}
