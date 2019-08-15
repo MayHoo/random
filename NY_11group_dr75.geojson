@@ -7,8 +7,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LBK04082B",
-        "marker-symbol": "x",
-        "group": "40,45,48,68",
+        "marker-symbol": "45",
+        "group": "45",
         "CD": "8"
       },
       "geometry": {
@@ -25,8 +25,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LBK04135A",
-        "marker-symbol": "x",
-        "group": "24,35,49,54,63,67",
+        "marker-symbol": "35",
+        "group": "35",
         "CD": "8"
       },
       "geometry": {
@@ -80,7 +80,7 @@
         "marker-color": "#0000FF",
         "cell": "LBKM4036A",
         "marker-symbol": "x",
-        "group": "25,27,44,46",
+        "group": "27.46",
         "CD": "8"
       },
       "geometry": {
@@ -133,8 +133,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LBQ04186N",
-        "marker-symbol": "x",
-        "group": "25,39,44,46",
+        "marker-symbol": "46",
+        "group": "46",
         "CD": "7"
       },
       "geometry": {
@@ -152,7 +152,7 @@
         "marker-color": "#0000FF",
         "cell": "LBQ04357B",
         "marker-symbol": "x",
-        "group": "28,37,45,52,53,57,65,69",
+        "group": "45.65.69",
         "CD": "8"
       },
       "geometry": {
@@ -169,8 +169,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LBQ04582A",
-        "marker-symbol": "x",
-        "group": "25,27,32,44,46",
+        "marker-symbol": "27.46",
+        "group": "27.46",
         "CD": "7"
       },
       "geometry": {
@@ -205,8 +205,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LBQ04749A",
-        "marker-symbol": "x",
-        "group": "28,45,48,53",
+        "marker-symbol": "45",
+        "group": "45",
         "CD": "8"
       },
       "geometry": {
@@ -260,7 +260,7 @@
         "marker-color": "#0000FF",
         "cell": "LBQ04839C",
         "marker-symbol": "x",
-        "group": "25,27,30,32,46",
+        "group": "27.30.46",
         "CD": "7"
       },
       "geometry": {
@@ -313,8 +313,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LBQ06366A",
-        "marker-symbol": "x",
-        "group": "28,45,48,53,57",
+        "marker-symbol": "45",
+        "group": "45",
         "CD": "7"
       },
       "geometry": {
@@ -332,7 +332,7 @@
         "marker-color": "#0000FF",
         "cell": "LBQS4005A",
         "marker-symbol": "x",
-        "group": "11,12,15,16,22",
+        "group": "12.16",
         "CD": "6"
       },
       "geometry": {
@@ -349,8 +349,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNY02057C",
-        "marker-symbol": "x",
-        "group": "73,79,80,81,83,85,86,87,88,89,90,92,96",
+        "marker-symbol": "87",
+        "group": "87",
         "CD": "13"
       },
       "geometry": {
@@ -385,8 +385,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNY02528A",
-        "marker-symbol": "x",
-        "group": "84,91",
+        "marker-symbol": "84",
+        "group": "84",
         "CD": "13"
       },
       "geometry": {
@@ -422,7 +422,7 @@
         "marker-color": "#0000FF",
         "cell": "LNYY8501A",
         "marker-symbol": "x",
-        "group": "25,27,32,46",
+        "group": "27.46",
         "CD": "7"
       },
       "geometry": {
@@ -440,7 +440,7 @@
         "marker-color": "#0000FF",
         "cell": "LNYY8502A",
         "marker-symbol": "x",
-        "group": "25,27,32,46",
+        "group": "27.46",
         "CD": "7"
       },
       "geometry": {
@@ -458,7 +458,7 @@
         "marker-color": "#0000FF",
         "cell": "LNYY8503A",
         "marker-symbol": "x",
-        "group": "25,27,32,44,46",
+        "group": "27.46",
         "CD": "7"
       },
       "geometry": {
@@ -476,7 +476,7 @@
         "marker-color": "#0000FF",
         "cell": "LNYY8504A",
         "marker-symbol": "x",
-        "group": "25,27,32,44,46",
+        "group": "27.46",
         "CD": "8"
       },
       "geometry": {
@@ -494,7 +494,7 @@
         "marker-color": "#0000FF",
         "cell": "LNYY8505A",
         "marker-symbol": "x",
-        "group": "25,27,32,44,46",
+        "group": "27.46",
         "CD": "8"
       },
       "geometry": {
@@ -512,7 +512,7 @@
         "marker-color": "#0000FF",
         "cell": "LNYY8506A",
         "marker-symbol": "x",
-        "group": "25,27,32,44,46",
+        "group": "27.46",
         "CD": "8"
       },
       "geometry": {
@@ -530,7 +530,7 @@
         "marker-color": "#0000FF",
         "cell": "LNYY8507A",
         "marker-symbol": "x",
-        "group": "27,44,,46",
+        "group": "27.46",
         "CD": "8"
       },
       "geometry": {
@@ -548,7 +548,7 @@
         "marker-color": "#0000FF",
         "cell": "LNYY8509A",
         "marker-symbol": "x",
-        "group": "30,32",
+        "group": "27.30",
         "CD": "7"
       },
       "geometry": {
@@ -565,8 +565,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNYY8521A",
-        "marker-symbol": "x",
-        "group": "28,33,40,45,48,68",
+        "marker-symbol": "45",
+        "group": "45",
         "CD": "8"
       },
       "geometry": {
@@ -584,7 +584,7 @@
         "marker-color": "#0000FF",
         "cell": "LNYY8522A",
         "marker-symbol": "x",
-        "group": "28,37,45,53,57,65",
+        "group": "45.65",
         "CD": "8"
       },
       "geometry": {
@@ -601,8 +601,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNYY8525A",
-        "marker-symbol": "x",
-        "group": "24,35",
+        "marker-symbol": "35",
+        "group": "35",
         "CD": "7"
       },
       "geometry": {
@@ -619,8 +619,8 @@
         "marker-size": "small",
         "marker-color": "#0000FF",
         "cell": "LNYY8526A",
-        "marker-symbol": "x",
-        "group": "26,31,33,34,35,63",
+        "marker-symbol": "35",
+        "group": "35",
         "CD": "7"
       },
       "geometry": {
