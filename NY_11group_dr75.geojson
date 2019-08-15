@@ -167,11 +167,11 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
-        "marker-color": "#0000FF",
+        "marker-color": "#0000ff",
         "cell": "LBQ04582A",
-        "marker-symbol": "27.46",
-        "group": "27.46",
-        "CD": "7"
+        "marker-symbol": "x",
+        "group": 27.46,
+        "CD": 7
       },
       "geometry": {
         "type": "Point",
