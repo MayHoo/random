@@ -1,0 +1,4085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5536A",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00957",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.01009",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46600000000001,
+          43.0038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN0088B",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00162",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9713,
+          42.3729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE9066A",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00193",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9862,
+          42.5315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2222A",
+        "CD": "Maine_1",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00818",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.01018",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00592"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.453,
+          43.4962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WL0737C",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00257",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00297",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7556,
+          42.2473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0255A",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00212",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00227",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4099,
+          41.839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0616G",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00242",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.117,
+          42.3323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3007D",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00226",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00248",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4348,
+          41.8252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4417F",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.02636",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.02781",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.02483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2243,
+          42.757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE9065A",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.0023",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00211",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9438,
+          42.4672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5560A",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00867",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00995",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4399,
+          43.2191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0102A",
+        "CD": "Maine_2",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.01448",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.01605",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.01281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1928,
+          44.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR4031D",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00418",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00468",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4547,
+          41.8223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4EN2289A",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00396",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00451",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8707,
+          43.2097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "LNEB0201A",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00217",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00246",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0372,
+          42.3741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2280A",
+        "CD": "Maine_1",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00616",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.0064",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.0059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3721,
+          43.5896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4KN0306A",
+        "CD": "Vermont_0",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.01822",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.01813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5998,
+          42.8285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7035F",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.002",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.0023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0751,
+          42.3686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR6326A",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00256",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00277",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1906,
+          41.6568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0376A",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00143",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.0018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3733,
+          41.49100000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0428A",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00327",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00329",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1615,
+          42.7083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7309A",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00419",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00485",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.0035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24,
+          42.3987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0088B",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.0016",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00162",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4115,
+          41.8089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE0707A",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00318",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00326",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8582,
+          42.075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1133A",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00288",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5889,
+          42.1217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WL0775A",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00238",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8111,
+          42.2516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0176A",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00443",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.0051",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9437,
+          41.6132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0101A",
+        "CD": "Maine_2",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00615",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00688",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2456,
+          44.0275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7303A",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00168",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1044,
+          42.3655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1163A",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00594",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00579",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.485,
+          42.1481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR7413A",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00353",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00407",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1049,
+          41.9073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE9203A",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00166",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00193",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9067,
+          42.515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE9074C",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00238",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00288",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8559,
+          42.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7038A",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00396",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00447",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2672,
+          42.3786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2267B",
+        "CD": "Maine_1",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.0078",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00806",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3107,
+          43.7061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE4122B",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.0028",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.0031",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.0025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.794,
+          42.2609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0109A",
+        "CD": "Maine_2",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00427",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00486",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.214,
+          44.1321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4415A",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.01154",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.01122",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.01188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2698,
+          42.8167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0619A",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00245",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00236",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4382,
+          42.6907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1152A",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.0031",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6529,
+          42.1623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4KN0304B",
+        "CD": "Vermont_0",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.06627",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.07329",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.05878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5482,
+          42.8043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WLM001A",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00221",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.0022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7961,
+          42.2716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE3117H",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00181",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2174,
+          42.1395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WL0969B",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00268",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00301",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.797,
+          42.4905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0239A",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00328",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00368",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9398,
+          41.6748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR1416A",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00262",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00303",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.0022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105,
+          41.9252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE9196B",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00171",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6389,
+          42.6652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE6028B",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00367",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00337",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1002,
+          42.7741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4401B",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.01389",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.01426",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.0135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4473,
+          42.7089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1105A",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00383",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00352",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6084,
+          42.1627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0609A",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00248",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8197,
+          41.3897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0002A",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.01563",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.01721",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.01398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2052,
+          42.7714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4HY0542A",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00266",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2476,
+          41.6625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE5015A",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00179",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00218",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2464,
+          42.5119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE4011A",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00186",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00216",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4521,
+          42.3465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4KN0310B",
+        "CD": "Vermont_0",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.06836",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.06662",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.07022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6022,
+          42.9745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BG0402B",
+        "CD": "Maine_2",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00839",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00964",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7825,
+          44.8072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN1135A",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00237",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00293",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0613,
+          42.3559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3004E",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00187",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00193",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.0018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4117,
+          41.816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0491A",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00356",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00336",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1454,
+          41.7008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0346A",
+        "CD": "Vermont_0",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.02199",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.0259",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.01779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.093,
+          44.5388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4411C",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00417",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00495",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5021,
+          42.8269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4416A",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.0154",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.01653",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.01421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2295,
+          42.7852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE5137A",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00251",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00213",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3243,
+          42.6146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0228B",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00247",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00279",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4717,
+          41.8081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DET511A",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00259",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00294",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2531,
+          42.2032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1148E",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00292",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00332",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.0025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5214,
+          42.3939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3213A",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00518",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00531",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9356,
+          41.6528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2283A",
+        "CD": "Maine_1",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00562",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2506,
+          43.6703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2263A",
+        "CD": "Maine_1",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00489",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00503",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5238,
+          43.4835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4EN2269B",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00391",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7911,
+          43.0994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4SH0251B",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00327",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5687,
+          42.1245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0103A",
+        "CD": "Maine_2",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.01388",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.01576",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.01187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2467,
+          44.093999999999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0695A",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00231",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1558,
+          42.6913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR4016C",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00361",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00441",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.514,
+          41.7075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3018C",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00183",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00197",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4363,
+          41.8046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WA1521C",
+        "CD": "Maine_2",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.0052",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00462",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.0058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7395,
+          44.5544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0220E",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00422",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00447",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4353,
+          41.8346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1086A",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00217",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00245",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0654,
+          42.3521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0450B",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.0022",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1604,
+          42.7169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN1156D",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00368",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00422",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0675,
+          42.3654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0318A",
+        "CD": "Vermont_0",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.02024",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.02129",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.01913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9309,
+          44.3644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1141B",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00435",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00452",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7037,
+          42.0852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WA0515A",
+        "CD": "Maine_2",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00428",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7564,
+          44.4311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR7425A",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00488",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00563",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93,
+          41.6322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BG0415A",
+        "CD": "Maine_2",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00406",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2492,
+          44.8264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0477B",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00404",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00492",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1426,
+          41.7137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1213A",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00278",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00308",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0338,
+          42.3718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN1160C",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.002",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00212",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0558,
+          42.3533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3008E",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00224",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00259",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4172,
+          41.8331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7174A",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00173",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00208",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1454,
+          42.3893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2282A",
+        "CD": "Maine_1",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00828",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00678",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3103,
+          43.6508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1212D",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00299",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00356",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0201,
+          42.3669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BO0114A",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00325",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00357",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1756,
+          42.3188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4SHM039A",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00443",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.0046",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5858,
+          42.102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0692A2",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.0036",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00443",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0761,
+          42.7669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BO1116C",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00241",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00274",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0817,
+          42.345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5554B",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00782",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00972",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5744,
+          43.2156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4SHM006A",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00374",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00345",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6086,
+          42.1136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE4121A",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.0023",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.0025",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7739,
+          42.2215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1225D",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00322",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00353",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0598,
+          42.3564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA0114B",
+        "CD": "Maine_2",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.0046",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00487",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1411,
+          44.0839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4EN2273D",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.01381",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.01534",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.01204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.882,
+          42.891999999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2291A",
+        "CD": "Maine_1",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00784",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00859",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3621,
+          43.6968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PB0287B",
+        "CD": "Maine_1",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00552",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3318,
+          43.6834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE3113D",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00277",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.0032",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2177,
+          42.3036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BSM165A",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00168",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0809,
+          42.4015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7167E",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00197",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00247",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2225,
+          42.4141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LN0731A",
+        "CD": "Vermont_0",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.0308",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.02425",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.03781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4518,
+          43.4375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN0047F",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00368",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00409",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9739,
+          42.4586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN0012B",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.0033",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00342",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0472,
+          42.3503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4404B",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00783",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4711,
+          42.7597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0735C",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.003",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00362",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7042,
+          42.1111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1078A",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00244",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00276",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0744,
+          42.3487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4MN0563A",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00534",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00565",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4516,
+          43.0683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0330A",
+        "CD": "Vermont_0",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.01924",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.02148",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.01684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2348,
+          44.5413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0327B",
+        "CD": "Vermont_0",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.01855",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.02216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2159,
+          44.4783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0364A",
+        "CD": "Vermont_0",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.01836",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.01905",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.01764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0678,
+          44.6575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BZ0021A",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00246",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.0027",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.0022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1681,
+          42.7278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0687C",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00303",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00325",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.0028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3139,
+          42.6394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0345D",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "2",
+        "wholeYearDroprateContribution(%)": "0.00242",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00335",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0997,
+          42.6621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4EN2275A",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00374",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00392",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8242,
+          43.0255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1222C",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00387",
+        "summerRank": "2",
+        "summerDroprateContribution(%)": "0.00414",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03699999999999,
+          42.3456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0617B",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00288",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00291",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0272,
+          42.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5556B",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00351",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4386,
+          42.9842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5533C",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00396",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00401",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4637,
+          42.9875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BSM711A",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00286",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00325",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0254,
+          42.1124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR4027A",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00352",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00374",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4492,
+          41.8009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BN0070A",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.0023",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00258",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9175,
+          42.5027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0267D",
+        "CD": "Massachusetts_6",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00168",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9533,
+          42.4628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DR5515A",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00262",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2806,
+          41.6883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE1076A",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00339",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00355",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0666,
+          42.361999999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR6325E",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00145",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3627,
+          41.7736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE7304C",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "3",
+        "wholeYearDroprateContribution(%)": "0.00223",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00237",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2393,
+          42.3759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0371A",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.0025",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.0028",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4285,
+          41.5979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0328A",
+        "CD": "Massachusetts_5",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00186",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00218",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.079,
+          42.405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2202A",
+        "CD": "Maine_1",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00932",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.01059",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2897,
+          43.6786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BV0331C",
+        "CD": "Vermont_0",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.02008",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.0255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1843,
+          44.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4SH0217E",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00297",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5865,
+          42.0817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR2302B",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00302",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.0035",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1204,
+          41.7431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4LA1105A",
+        "CD": "Maine_2",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00727",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00757",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2161,
+          44.0964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3099A",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00286",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00313",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4154,
+          41.8234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR2038A",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00195",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00209",
+        "winterRank": "4",
+        "winterDroprateContribution(%)": "0.00181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44,
+          41.8889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3208A",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00255",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1039,
+          41.6719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4FR3015G",
+        "CD": "Rhode Island_2",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.0024",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00253",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4362,
+          41.8443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4CW1132A",
+        "CD": "Massachusetts_1",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00322",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00288",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.613,
+          42.1111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE5145A",
+        "CD": "Massachusetts_3",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00291",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00241",
+        "winterRank": "2",
+        "winterDroprateContribution(%)": "0.00342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3106,
+          42.6496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4429A",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.01114",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.01188",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.01036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2543,
+          42.7823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PRM105A",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "4",
+        "wholeYearDroprateContribution(%)": "0.00428",
+        "summerRank": "4",
+        "summerDroprateContribution(%)": "0.00467",
+        "winterRank": "3",
+        "winterDroprateContribution(%)": "0.00382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1769,
+          41.6791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN4402B",
+        "CD": "New Hampshire_2",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.01318",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.01359",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.01274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4538,
+          42.7413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0219D",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00216",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.0023",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0637,
+          42.3753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0479B",
+        "CD": "Massachusetts_9",
+        "wholeYearRank": "10",
+        "wholeYearDroprateContribution(%)": "0.00247",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.0021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1549,
+          41.681999999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4PR0189A",
+        "CD": "Rhode Island_1",
+        "wholeYearRank": "7",
+        "wholeYearDroprateContribution(%)": "0.00178",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00182",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4112,
+          41.8542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DET133E",
+        "CD": "Massachusetts_4",
+        "wholeYearRank": "5",
+        "wholeYearDroprateContribution(%)": "0.00322",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.0039",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3932,
+          42.0565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN2265A",
+        "CD": "Maine_1",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00649",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.0065",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3408,
+          43.6398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DE2095G",
+        "CD": "Massachusetts_8",
+        "wholeYearRank": "6",
+        "wholeYearDroprateContribution(%)": "0.00306",
+        "summerRank": "3",
+        "summerDroprateContribution(%)": "0.00395",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0594,
+          42.1386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DN5549B",
+        "CD": "New Hampshire_1",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00362",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00389",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4944,
+          43.0314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4WLM089A",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "8",
+        "wholeYearDroprateContribution(%)": "0.00223",
+        "summerRank": "6",
+        "summerDroprateContribution(%)": "0.00288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.627,
+          42.3259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4DET399D",
+        "CD": "Massachusetts_2",
+        "wholeYearRank": "9",
+        "wholeYearDroprateContribution(%)": "0.00221",
+        "summerRank": "7",
+        "summerDroprateContribution(%)": "0.00252",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.722,
+          42.3244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#00FF00",
+        "cell": "L4BS0602C",
+        "CD": "Massachusetts_7",
+        "wholeYearRank": "1",
+        "wholeYearDroprateContribution(%)": "0.00402",
+        "summerRank": "1",
+        "summerDroprateContribution(%)": "0.00468",
+        "winterRank": "1",
+        "winterDroprateContribution(%)": "0.00347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105,
+          42.3399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DN2285D",
+        "CD": "Maine_1",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2733,
+          43.6536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BS0650A",
+        "CD": "Massachusetts_5",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3511,
+          42.3485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DR1065A",
+        "CD": "Massachusetts_9",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2347,
+          41.6356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BS0665B",
+        "CD": "Massachusetts_3",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0775,
+          42.7794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4LN0788C",
+        "CD": "New Hampshire_2",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.295,
+          43.655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BS0699A",
+        "CD": "Massachusetts_3",
+        "summerRank": "8",
+        "summerDroprateContribution(%)": "0.00231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1126,
+          42.7569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4WL0780A",
+        "CD": "Massachusetts_2",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8581,
+          42.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4WA0524A",
+        "CD": "Maine_2",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6247,
+          44.617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4CW1139B",
+        "CD": "Massachusetts_1",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4978,
+          42.1142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4FR4209B",
+        "CD": "Rhode Island_2",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4091,
+          41.7358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BS1019E",
+        "CD": "New Hampshire_1",
+        "summerRank": "5",
+        "summerDroprateContribution(%)": "0.00485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8099,
+          42.9124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BV0315A",
+        "CD": "Vermont_0",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.01891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7379,
+          44.3048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4DE9063A",
+        "CD": "Massachusetts_6",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6525,
+          42.6258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4BN0425B",
+        "CD": "Massachusetts_4",
+        "summerRank": "10",
+        "summerDroprateContribution(%)": "0.00283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4371,
+          42.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "cell": "L4WL0719A",
+        "CD": "Massachusetts_2",
+        "summerRank": "9",
+        "summerDroprateContribution(%)": "0.00231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8322,
+          42.2458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0731A",
+        "CD": "Massachusetts_9",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8743,
+          42.1136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE8054A",
+        "CD": "Massachusetts_5",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9831,
+          42.3797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0701A",
+        "CD": "Massachusetts_9",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8821,
+          42.1547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DET103C",
+        "CD": "Massachusetts_8",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.0016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.077,
+          42.251000000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DE4127D",
+        "CD": "Massachusetts_2",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7682,
+          42.2723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DN2207C",
+        "CD": "Maine_1",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2939,
+          43.6209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BN1037A",
+        "CD": "Massachusetts_6",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.961,
+          42.4546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4CW1173A",
+        "CD": "Massachusetts_1",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.544,
+          42.1398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4LN0711D",
+        "CD": "Vermont_0",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.01651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3577,
+          43.653999999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4CW1120C",
+        "CD": "Massachusetts_1",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6184,
+          42.0322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4DN5532A",
+        "CD": "New Hampshire_1",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4408,
+          42.9576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4FR2025A",
+        "CD": "Rhode Island_1",
+        "winterRank": "9",
+        "winterDroprateContribution(%)": "0.00141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39699999999999,
+          41.8727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BN1308D",
+        "CD": "Massachusetts_6",
+        "winterRank": "6",
+        "winterDroprateContribution(%)": "0.00157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1844,
+          42.5502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BS0652A",
+        "CD": "Massachusetts_5",
+        "winterRank": "7",
+        "winterDroprateContribution(%)": "0.00153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9962,
+          42.4088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4LA0108A",
+        "CD": "Maine_2",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1826,
+          44.1143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4SHM002A",
+        "CD": "Massachusetts_1",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.00332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5935,
+          42.1139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4FR2041B",
+        "CD": "Rhode Island_1",
+        "winterRank": "10",
+        "winterDroprateContribution(%)": "0.00126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3902,
+          41.8863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4ER1011D",
+        "CD": "Massachusetts_9",
+        "winterRank": "8",
+        "winterDroprateContribution(%)": "0.0021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7154,
+          41.9622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BO0088A",
+        "CD": "Massachusetts_7",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.00217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0787,
+          42.3482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0000FF",
+        "cell": "L4BV0348A",
+        "CD": "Vermont_0",
+        "winterRank": "5",
+        "winterDroprateContribution(%)": "0.01896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8145,
+          44.5256
+        ]
+      }
+    }
+  ]
+}
